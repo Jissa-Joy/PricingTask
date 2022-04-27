@@ -1,0 +1,5 @@
+Feature: Standard Pricing feature
+Scenario: Standard Pricing feature scenario
+Given User is on SecurePay Home Page
+When User selects Standard Pricing from Pricing Tab
+Then User should be navigated to Pricing page
