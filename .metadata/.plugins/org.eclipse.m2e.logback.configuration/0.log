@@ -250,3 +250,13 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2022-04-27 23:00:28,424 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-27 23:00:28,424 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\syamj\Desktop\SeleniumJAVA-MO\SecurePay\Pricing\src\main\resources
 2022-04-27 23:00:28,424 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-27 23:00:28,424 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\syamj\Desktop\SeleniumJAVA-MO\SecurePay\Pricing\src\test\resources
+2022-04-28 10:36:45,489 [Worker-40: Launching Poli, ...] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pricing:Pricing:0.0.1-SNAPSHOT @ C:\Users\syamj\Desktop\SeleniumJAVA-MO\SecurePay\Pricing\pom.xml.
+2022-04-28 10:36:59,741 [Worker-40: Launching Poli, ...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 10:36:59,744 [Worker-40: Launching Poli, ...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\syamj\Desktop\SeleniumJAVA-MO\SecurePay\Pricing\src\main\resources
+2022-04-28 10:36:59,751 [Worker-40: Launching Poli, ...] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 10:36:59,753 [Worker-40: Launching Poli, ...] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\syamj\Desktop\SeleniumJAVA-MO\SecurePay\Pricing\src\test\resources
+2022-04-28 10:37:06,034 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 10:37:06,034 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\syamj\Desktop\SeleniumJAVA-MO\SecurePay\Pricing\src\main\resources
+2022-04-28 10:37:06,042 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 10:37:06,049 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\syamj\Desktop\SeleniumJAVA-MO\SecurePay\Pricing\src\test\resources
