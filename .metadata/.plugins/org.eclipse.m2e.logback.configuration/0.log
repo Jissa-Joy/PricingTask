@@ -260,3 +260,9 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2022-04-28 10:37:06,034 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\syamj\Desktop\SeleniumJAVA-MO\SecurePay\Pricing\src\main\resources
 2022-04-28 10:37:06,042 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-04-28 10:37:06,049 [Worker-61: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\syamj\Desktop\SeleniumJAVA-MO\SecurePay\Pricing\src\test\resources
+2022-04-28 15:56:18,504 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 15:56:18,505 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\syamj\Desktop\SeleniumJAVA-MO\SecurePay\Pricing\src\main\resources
+2022-04-28 15:56:18,506 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 15:56:18,507 [Worker-65: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\syamj\Desktop\SeleniumJAVA-MO\SecurePay\Pricing\src\test\resources
+2022-04-28 15:56:21,869 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-04-28 15:56:21,869 [Worker-81: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\syamj\Desktop\SeleniumJAVA-MO\SecurePay\Pricing\src\main\resources
